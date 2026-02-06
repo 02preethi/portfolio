@@ -1,0 +1,24 @@
+.hero {
+  padding: 80px 20px;
+}
+
+.hero-name {
+  font-size: 3rem;
+  font-weight: 800;
+}
+
+.hero-name span {
+  color: #38bdf8;
+}
+
+.hero-role {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #38bdf8;
+}
+
+.hero-summary {
+  margin-top: 20px;
+  max-width: 720px;
+  color: #cbd5f5;
+}

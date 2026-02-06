@@ -1,14 +1,16 @@
+import "./Hero.css";
+
 const Hero = () => {
   return (
-    <section>
+    <section className="hero">
       <div className="container">
-        <h1>
-          Hi, I’m <span style={{ color: "#38bdf8" }}>Preethi V</span>
+        <h1 className="hero-name">
+          Hi, I’m <span>Preethi V</span>
         </h1>
 
-        <h3 style={{ marginTop: "10px" }}>Gesix GeoAI Intern</h3>
+        <h3 className="hero-role">Gesix GeoAI Intern</h3>
 
-        <p style={{ marginTop: "20px", maxWidth: "720px" }}>
+        <p className="hero-summary">
           MCA student with strong foundations in full-stack web development and
           beginner-level machine learning. I enjoy building clean, deployable
           applications and solving real-world problems using technology.
