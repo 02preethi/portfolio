@@ -72,3 +72,4 @@ Through this sprint, I gained hands-on experience in:
 - Deploying and validating a live web application
 
 This sprint helped me transition from academic-style development to industry-oriented thinking.
+
