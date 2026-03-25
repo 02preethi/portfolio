@@ -1,17 +1,12 @@
-# Gesix Internship – Personal Portfolio
-
-This project is a personal portfolio website built using React.js as part of **Sprint 01 – Assignment 001: The Engineer’s Identity** for the Gesix Solutions Internship.
+# Preethi – Personal Portfolio
 
 The portfolio represents my professional identity and showcases my technical skills, academic and applied projects, and deployment readiness.
 
----
 
-## 🚀 Live Demo
-🔗 https://portfolio-gules-seven-27.vercel.app/
+##  Live Demo
+🔗 https://portfolio-gules-seven-27.vercel.app
 
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 - React.js (Vite)
 - JavaScript (ES6+)
@@ -20,9 +15,9 @@ The portfolio represents my professional identity and showcases my technical ski
 - Git & GitHub
 - Vercel (Deployment)
 
----
 
-## 📁 Project Structure
+
+##  Project Structure
 
 src/
 ├── components/
@@ -39,12 +34,12 @@ src/
 ├── main.jsx
 └── index.css
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository:
 git clone https://github.com/02preethi/portfolio.git
 2. Navigate to the project directory:
-cd gesix-portfolio
+
 
 3. Install dependencies:
 npm install
