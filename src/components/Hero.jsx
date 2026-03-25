@@ -15,7 +15,7 @@ const Hero = () => {
   applications. I enjoy building clean, responsive web applications and solving
   real-world problems through technology.
 </p>
-<a href="/resume.pdf" target="_blank" className="btn">
+<a href="/Resume.pdf" target="_blank" className="btn">
   View Resume
 </a>
 <div style={{ marginTop: "20px" }}>
